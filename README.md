@@ -7,5 +7,5 @@ Monitor System with live Video Streaming, Audio Frequency Detection &amp; GUI to
 3. A GUI developed using pygame to control these two functions based on pm2 process manager.
 
 
-## Note: 
+#### Note: 
 The codes of this system can be modified to be implemented on the Raspberry Pi with Pi-camera, USB microphone and servo motors to control the camera direction.
